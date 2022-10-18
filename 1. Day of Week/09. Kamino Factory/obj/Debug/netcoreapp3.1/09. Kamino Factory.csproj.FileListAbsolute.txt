@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.exe
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.deps.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.runtimeconfig.dev.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.genruntimeconfig.cache

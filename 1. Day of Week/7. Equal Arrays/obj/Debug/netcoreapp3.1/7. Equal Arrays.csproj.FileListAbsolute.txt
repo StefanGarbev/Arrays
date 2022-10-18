@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\7. Equal Arrays\bin\Debug\netcoreapp3.1\7. Equal Arrays.exe
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\7. Equal Arrays\bin\Debug\netcoreapp3.1\7. Equal Arrays.deps.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\7. Equal Arrays\bin\Debug\netcoreapp3.1\7. Equal Arrays.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\7. Equal Arrays\bin\Debug\netcoreapp3.1\7. Equal Arrays.runtimeconfig.dev.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\7. Equal Arrays\bin\Debug\netcoreapp3.1\7. Equal Arrays.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\7. Equal Arrays\bin\Debug\netcoreapp3.1\7. Equal Arrays.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\7. Equal Arrays\obj\Debug\netcoreapp3.1\7. Equal Arrays.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\7. Equal Arrays\obj\Debug\netcoreapp3.1\7. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\7. Equal Arrays\obj\Debug\netcoreapp3.1\7. Equal Arrays.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\7. Equal Arrays\obj\Debug\netcoreapp3.1\7. Equal Arrays.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\7. Equal Arrays\obj\Debug\netcoreapp3.1\7. Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\7. Equal Arrays\obj\Debug\netcoreapp3.1\7. Equal Arrays.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\7. Equal Arrays\obj\Debug\netcoreapp3.1\7. Equal Arrays.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\7. Equal Arrays\obj\Debug\netcoreapp3.1\7. Equal Arrays.genruntimeconfig.cache

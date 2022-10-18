@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\5. Sum Even Numbers\bin\Debug\netcoreapp3.1\5. Sum Even Numbers.exe
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\5. Sum Even Numbers\bin\Debug\netcoreapp3.1\5. Sum Even Numbers.deps.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\5. Sum Even Numbers\bin\Debug\netcoreapp3.1\5. Sum Even Numbers.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\5. Sum Even Numbers\bin\Debug\netcoreapp3.1\5. Sum Even Numbers.runtimeconfig.dev.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\5. Sum Even Numbers\bin\Debug\netcoreapp3.1\5. Sum Even Numbers.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\5. Sum Even Numbers\bin\Debug\netcoreapp3.1\5. Sum Even Numbers.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\5. Sum Even Numbers\obj\Debug\netcoreapp3.1\5. Sum Even Numbers.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\5. Sum Even Numbers\obj\Debug\netcoreapp3.1\5. Sum Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\5. Sum Even Numbers\obj\Debug\netcoreapp3.1\5. Sum Even Numbers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\5. Sum Even Numbers\obj\Debug\netcoreapp3.1\5. Sum Even Numbers.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\5. Sum Even Numbers\obj\Debug\netcoreapp3.1\5. Sum Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\5. Sum Even Numbers\obj\Debug\netcoreapp3.1\5. Sum Even Numbers.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\5. Sum Even Numbers\obj\Debug\netcoreapp3.1\5. Sum Even Numbers.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\5. Sum Even Numbers\obj\Debug\netcoreapp3.1\5. Sum Even Numbers.genruntimeconfig.cache

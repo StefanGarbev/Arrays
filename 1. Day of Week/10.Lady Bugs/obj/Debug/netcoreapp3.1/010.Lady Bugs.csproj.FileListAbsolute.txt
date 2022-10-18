@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\10.Lady Bugs\bin\Debug\netcoreapp3.1\010.Lady Bugs.exe
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\10.Lady Bugs\bin\Debug\netcoreapp3.1\010.Lady Bugs.deps.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\10.Lady Bugs\bin\Debug\netcoreapp3.1\010.Lady Bugs.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\10.Lady Bugs\bin\Debug\netcoreapp3.1\010.Lady Bugs.runtimeconfig.dev.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\10.Lady Bugs\bin\Debug\netcoreapp3.1\010.Lady Bugs.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\10.Lady Bugs\bin\Debug\netcoreapp3.1\010.Lady Bugs.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\10.Lady Bugs\obj\Debug\netcoreapp3.1\010.Lady Bugs.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\10.Lady Bugs\obj\Debug\netcoreapp3.1\010.Lady Bugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\10.Lady Bugs\obj\Debug\netcoreapp3.1\010.Lady Bugs.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\10.Lady Bugs\obj\Debug\netcoreapp3.1\010.Lady Bugs.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\10.Lady Bugs\obj\Debug\netcoreapp3.1\010.Lady Bugs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\10.Lady Bugs\obj\Debug\netcoreapp3.1\010.Lady Bugs.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\10.Lady Bugs\obj\Debug\netcoreapp3.1\010.Lady Bugs.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\03 - Arrays\1. Day of Week\10.Lady Bugs\obj\Debug\netcoreapp3.1\010.Lady Bugs.genruntimeconfig.cache
